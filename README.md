@@ -71,6 +71,7 @@
 - Adjust font size, font family, line-spacing, paragraph spacing, background color, text color, margins, and brightness
 - Night mode and theme color
 - Text highlighting, underline, boldness, italics, and shadow
+- [ ] One click import from selected directory
 
 ## Installation
 
