@@ -72,6 +72,7 @@
 - Night mode and theme color
 - Text highlighting, underline, boldness, italics, and shadow
 - [ ] One click import from selected directory
+- [ ] change book view plate to include buttons for most used options
 
 ## Installation
 
